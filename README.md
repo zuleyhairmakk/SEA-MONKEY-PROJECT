@@ -1,6 +1,7 @@
 # SEA-MONKEY-PROJECT
 SeaMonkey is an open source, multiplatform public network (internet) software.
-#our imaginary scenario for this project
+
+# our imaginary scenario for this project
 
 Lezzet Kebap-Restaurant's menu was a culinary masterpiece, showcasing a variety of kebabs, each carefully crafted to perfection.
 The name "Lezzet" meaning "delicious" in Turkish perfectly captured the essence of this culinary haven.
